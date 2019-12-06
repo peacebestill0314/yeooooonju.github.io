@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "yeonju"
-  avatar           : "/assets/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "back-end-developer"
   location         : "Seoul"
   email            : 
