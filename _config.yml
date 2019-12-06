@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "yeonju_log"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "yeonju_log"
+name                     : "연주_로그"
 description              : ""
 url                      : "https://yeooooonju.github.io" # the base hostname & protocol for your site e.g. 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
