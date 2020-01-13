@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daisy"
+  name             : "yeonju"
   avatar           : "/asset/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "back-end-developer"
   location         : "Seoul"
